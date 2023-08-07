@@ -2,7 +2,7 @@
 - 👀 I’m interested in 1337haxor
 - 🌱 I’m currently learning 1337haxor
 - 💞️ I’m looking to collaborate on 1337haxor
-- 📫 How to reach me : @mx_ssd
+- 📫 How to reach me : @mx_ssd in discord
 
 <!---
 M4X-0/M4X-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
